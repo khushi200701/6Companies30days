@@ -10,8 +10,8 @@ Questions :
 - [x] Total Decoding Messages 
 - [ ] Given a pattern containing only I's and D's. I for increasing and D for decreasing.Devise an algorithm to print the minimum number following that pattern.
 - [ ] Find max 10 numbers in a list having 10M entries.
-- [ ] Given an unsorted array Arr of size N of positive integers. One number 'A' from set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers.
-- [ ] Find total number of Squares in a N*N chessboard
+- [x] Given an unsorted array Arr of size N of positive integers. One number 'A' from set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers.
+- [x] Find total number of Squares in a N*N chessboard
 - [x] Decode the string
 - [x] Minimum Size Subarray Sum
 - [x] Array Pair Sum Divisibility Problem
