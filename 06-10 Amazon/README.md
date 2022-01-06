@@ -1,7 +1,7 @@
 Questions:
-- [ ] 1.Calculating Maximum Profit (Multiple Ladders Question)
-- [ ] 2.Longest Mountain 
-- [ ] 3.IPL 2021 - Match Day 2 (similar to maximum in subarray)
+- [x] 1.Calculating Maximum Profit (Multiple Ladders Question)
+- [x] 2.Longest Mountain 
+- [x] 3.IPL 2021 - Match Day 2 (similar to maximum in subarray)
 - [ ] 4.Brackets in Matrix Chain Multiplication 
 - [ ] 5.Phone directory (Question similar to this based on Amazon Pay as a service)
 - [ ] 6.Maximum of all subarrays of size k
