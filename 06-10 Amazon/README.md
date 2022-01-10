@@ -7,10 +7,10 @@ Questions:
 - [x] 6. Maximum of all subarrays of size k
 - [x] 7. First non-repeating character in a stream
 - [x] 8. Count ways to N'th Stair(Order does not matter)
-- [ ] 9. Which among them forms a perfect Sudoku Pattern ?
-- [ ] 10. Nuts and Bolts Problem
-- [ ] 11. Tree Serialization and Deserialization
-- [ ] 12. Column name from a given column number
-- [ ] 13. Rotten Oranges -Multiple Repetitions
-- [ ] 14. Tree Burning 
-- [ ] 15. Delete N nodes after M nodes of a linked list 
+- [x] 9. Which among them forms a perfect Sudoku Pattern ?
+- [x] 10. Nuts and Bolts Problem
+- [x] 11. Tree Serialization and Deserialization
+- [x] 12. Column name from a given column number
+- [x] 13. Rotten Oranges -Multiple Repetitions
+- [x] 14. Tree Burning 
+- [x] 15. Delete N nodes after M nodes of a linked list 
