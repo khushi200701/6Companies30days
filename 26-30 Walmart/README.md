@@ -1,15 +1,15 @@
-- [ ] Path with Maximum Probability
-- [ ] stone-game
-- [ ] remove-colored-pieces-if-both-neighbors-are-the-same-color (Similar to Card Game Question)
-- [ ] number-of-unique-paths5339/1/
-- [ ] transform-to-sum-tree/1/
-- [ ] power-of-numbers-1587115620/1/(Similar to Jennifer and Numbers Question)
-- [ ] sorted-subsequence-of-size-3/1/
-- [ ] maximum-height-tree4803/1/
-- [ ] guess-number-higher-or-lower-ii
-- [ ] generate-random-point-in-a-circle
-- [ ] Maximum Performance of a Team (Dashboard Question Similar)
-- [ ] find-array-given-subset-sums
-- [ ] Find the Kth Largest Integer in the Array (Cows and Farm Question)
-- [ ] largest-number-in-k-swaps-1587115620/1/
-- [ ] divide-two-integers/
+- [x] Path with Maximum Probability
+- [x] stone-game
+- [x] remove-colored-pieces-if-both-neighbors-are-the-same-color (Similar to Card Game Question)
+- [x] number-of-unique-paths5339/1/
+- [x] transform-to-sum-tree/1/
+- [x] power-of-numbers-1587115620/1/(Similar to Jennifer and Numbers Question)
+- [x] sorted-subsequence-of-size-3/1/
+- [x] maximum-height-tree4803/1/
+- [x] guess-number-higher-or-lower-ii
+- [x] generate-random-point-in-a-circle
+- [x] Maximum Performance of a Team (Dashboard Question Similar)
+- [x] find-array-given-subset-sums
+- [x] Find the Kth Largest Integer in the Array (Cows and Farm Question)
+- [x] largest-number-in-k-swaps-1587115620/1/
+- [x] divide-two-integers/
